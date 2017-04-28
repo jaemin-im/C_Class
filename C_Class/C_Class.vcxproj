@@ -143,6 +143,7 @@
     <ClCompile Include="array_2.c" />
     <ClCompile Include="array_3.c" />
     <ClCompile Include="array_4.c" />
+    <ClCompile Include="array_6.c" />
     <ClCompile Include="bubble_sort.c" />
     <ClCompile Include="buybook.c" />
     <ClCompile Include="for_1.c" />
@@ -154,12 +155,18 @@
     <ClCompile Include="oprelational01.c" />
     <ClCompile Include="opsizeof01.c" />
     <ClCompile Include="playground.c" />
+    <ClCompile Include="pointer_2.c" />
+    <ClCompile Include="pointer_4.c" />
+    <ClCompile Include="pointer_6.c" />
     <ClCompile Include="pointer_test.c" />
     <ClCompile Include="saju.c" />
     <ClCompile Include="selection_sort.c" />
     <ClCompile Include="tunnel.c" />
     <ClCompile Include="while_1.c" />
     <ClCompile Include="while_4.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="array_6.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

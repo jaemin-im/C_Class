@@ -1,5 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
 void main(void) {
-	array_4();
+	pointer_6();
 }
