@@ -1,0 +1,8 @@
+﻿  sepfunc_2.c
+c:\users\dsm2017\google 드라이브\자료\프로젝트\github\c_class\c_class\sepfunc_2.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/FORCE' 사양으로 인해 무시됩니다.
+sepfunc_1.obj : warning LNK4006: GetMax이(가) func_4.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+C:\Users\dsm2017\Google 드라이브\자료\프로젝트\GitHub\C_Class\x64\Debug\C_Class.exe : warning LNK4088: /FORCE 옵션을 사용하여 생성하는 이미지입니다. 이미지가 실행되지 않을 수도 있습니다.
+  C_Class.vcxproj -> C:\Users\dsm2017\Google 드라이브\자료\프로젝트\GitHub\C_Class\x64\Debug\C_Class.exe
+  C_Class.vcxproj -> C:\Users\dsm2017\Google 드라이브\자료\프로젝트\GitHub\C_Class\x64\Debug\C_Class.pdb (Partial PDB)
