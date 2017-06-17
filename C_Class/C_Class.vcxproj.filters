@@ -126,5 +126,65 @@
     <ClCompile Include="sepfunc_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointerswap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="picture_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="picture_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
